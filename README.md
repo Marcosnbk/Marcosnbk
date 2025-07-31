@@ -1,6 +1,6 @@
-## Fala Mans!! Me Chamo Marcos Vinicius.
+## Fala!! Me Chamo Marcos Vinicius.
 
-🧑‍🎓 Graduando: Análise E Desenvolvimento De Sistemas
+🧑‍🎓 Graduando: Ciências da Computação
 
  💻 Sou Do Front-End
 
